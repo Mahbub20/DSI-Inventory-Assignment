@@ -319,7 +319,7 @@ int main(){
         }
 
         case 6://see the balance
-          cout << "The Available balance is : " << avlBalance << endl;
+          cout << "The Available balance is : " << avlBalance << " BDT" << endl;
           break;
       }
 
